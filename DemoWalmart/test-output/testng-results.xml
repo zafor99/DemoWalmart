@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31381" started-at="2016-09-08T20:57:22Z" finished-at="2016-09-08T20:57:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31381" started-at="2016-09-08T20:57:22Z" finished-at="2016-09-08T20:57:53Z">
+      <class name="demo.createaccount.CreateAccount">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:demo.createaccount.CreateAccount@1fa12f6]" name="setUp" is-config="true" duration-ms="23988" started-at="2016-09-08T16:57:22Z" finished-at="2016-09-08T16:57:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createValidAccount()[pri:0, instance:demo.createaccount.CreateAccount@1fa12f6]" name="createValidAccount" duration-ms="5566" started-at="2016-09-08T16:57:46Z" finished-at="2016-09-08T16:57:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createValidAccount -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:demo.createaccount.CreateAccount@1fa12f6]" name="afterTest" is-config="true" duration-ms="1815" started-at="2016-09-08T16:57:52Z" finished-at="2016-09-08T16:57:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- demo.createaccount.CreateAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
